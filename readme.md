@@ -1,6 +1,4 @@
-# Full dataset and algorithm for doi.org/10.1101/2020.10.09.20210351
-
-Estimating COVID-19 cases and outbreaks on-stream through phone-calls
+# Full dataset and algorithm for <a href="doi.org/10.1101/2020.10.09.20210351"> Estimating COVID-19 cases and outbreaks on-stream through phone-calls </a>
 
 Ezequiel Alvarez, Daniela Obando, Sebastian Crespo, Enio Garcia, Nicolas Kreplak, Franco Marsico
 
