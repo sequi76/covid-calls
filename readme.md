@@ -12,10 +12,10 @@ email: sequi@unsam.edu.ar
 - Open the notebook from any Python Jupyter console (google-collab for instance, or your own computer importing the repo)
 - Run the notebook 
 
-### As you run the notebook
+### As you run the notebook you will be
 
-- You will importing the data
-- Then performing the fit (see article)
+- Importing the data
+- Performing the fit (see article)
 - Computing the algorithms as described in the article
 - Creating the figures found in the article (figures are exported to the figs/ folder)
 
